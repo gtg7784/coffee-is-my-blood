@@ -8,3 +8,5 @@
 ## How to Contribute
 Issue 를 통해 본인이 가본 카페를 issue template 에 맞춰서 작성해주세요!
 
+## Cafe List
+- [EERT 망원](./eert-mangwon.md)
