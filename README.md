@@ -10,3 +10,4 @@ Issue 를 통해 본인이 가본 카페를 [issue template](https://github.com/
 
 ## Cafe List
 - [EERT 망원](./eert-mangwon.md)
+- [동작노을카페](./dongjak-noel-cafe.md)
