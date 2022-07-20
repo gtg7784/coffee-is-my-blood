@@ -6,7 +6,12 @@
 그동안 가본 카페를 정리하는 레포입니다.
 
 ## How to Contribute
+
+### Issue
 Issue 를 통해 본인이 가본 카페를 [issue template](https://github.com/gtg7784/coffee-is-my-blood/issues/new?template=add-cafe.md&title=%EC%B9%B4%ED%8E%98+%EC%B6%94%EA%B0%80+-+%5B%EC%B9%B4%ED%8E%98+%EC%9D%B4%EB%A6%84%5D) 에 맞춰서 작성해주세요!
+
+### PR
+해당 레포를 포크한 후, 새로운 카페를 작성하시고, Pull Request 를 날려주세요!
 
 ## Cafe List
 - [EERT 망원](./eert-mangwon.md)
